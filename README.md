@@ -1,10 +1,9 @@
 # Deep Learning Specialization 
 ### Offered by deeplearning.ai
-#
+
 Programming assignments for the course.
 
 ### Course 1: Neural Networks and Deep Learning
-#
 * Python Basics with Numpy
 * Logistic Regression with a Neural Network mindset
 * Planar Data Classification with One Hidden Layer
@@ -12,7 +11,6 @@ Programming assignments for the course.
 * Deep Neural Network for Image Classification: Application
 
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-#
 * Initialization
 * Regularization
 * Gradient Checking
@@ -20,11 +18,9 @@ Programming assignments for the course.
 * TensorFlow Tutorial
 
 ### Course 3: Structuring Machine Learning Projects
-#
 * There are no programming assignments for this course.
 
 ### Course 4: Convolutional Neural Networks
-#
 * Convolutional Model: step by step
 * Convolutional Neural Networks: Application
 * Keras Tutorial
@@ -36,7 +32,6 @@ Programming assignments for the course.
 * Face Recognition
 
 ### Course 5: Sequence Models
-#
 * Building a Recurrent Neural Network - Step by Step
 * Character-level Language Modeling
 * Jazz improvisation with LSTM
